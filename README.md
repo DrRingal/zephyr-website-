@@ -1,5 +1,3 @@
-#zephyr-website
-
 <!DOCTYPE html>
 <html>
     <style>
@@ -34,16 +32,32 @@
             width:600px;
             height:200px;
         }
-        #back-to-home{
+        .button {
+            background-color: black;
+            border: 1px solid white;
+            border-radius:6px;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
             position:absolute;
-            left:11%;
+            left:12%;
             bottom:20%;
-            color:white;
+            transition-duration: 0.5s;
+            cursor:pointer;
+        }
+        .button:hover{
+            background-color:white;
+            color:black;
+            border:1px solid white;
+            border-radius:6px;
         }
     </style>
     <body class="background-image">
         <h1 class="main-heading">Uranus</h1>
         <p class="body-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <a href="https://www.wikipedia.org/" id="back-to-home">Back to home.</a>
+        <a href="https://www.wikipedia.org/" class="button button:hover">Back to home</a>
     </body>
 </html>
