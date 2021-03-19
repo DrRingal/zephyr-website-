@@ -4,7 +4,6 @@
         <!--The "background" class will be dependent on the background image chosen.-->
     	<meta charset="UTF-8">
         <meta name="viewport" content="width=device-width,initial-scale=1">
-        <link href="ZephyrVenusStylesheet.css" rel="stylesheet">
         <style>
             .everything{
     height:90vh;
