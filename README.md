@@ -122,7 +122,7 @@
         <div class="everything">
         <div class="header">
             <img src="https://i.imgur.com/M26SxH2.png" class="logo" style="top:1.5%;left:2.5%">
-            <a href="https://en.wikipedia.org/wiki/Neptune" class="PlanetAfter" style="right:2%; top:14%">Venus</a>
+            <a href="https://en.wikipedia.org/wiki/Venus" class="PlanetAfter" style="right:2%; top:14%">Venus</a>
         </div>
         <div>
             <h1 class="Planetname"><b>Mercury</b></h1>
