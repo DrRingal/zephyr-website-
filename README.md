@@ -121,8 +121,8 @@
         <div class="everything">
         <div class="header">
             <img src="https://i.imgur.com/M26SxH2.png" class="logo" style="top:1.5%;left:2.5%">
-            <a href="https://en.wikipedia.org/wiki/Saturn" class="PlanetBefore" style="left:2%; top:14%">Jupiter</a>
-            <a href="https://en.wikipedia.org/wiki/Neptune" class="PlanetAfter" style="right:2%; top:14%">Uranus</a>
+            <a href="https://en.wikipedia.org/wiki/Jupiter" class="PlanetBefore" style="left:2%; top:14%">Jupiter</a>
+            <a href="https://en.wikipedia.org/wiki/Uranus" class="PlanetAfter" style="right:2%; top:14%">Uranus</a>
         </div>
         <div>
             <h1 class="Planetname"><b>Saturn</b></h1>
