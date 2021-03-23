@@ -130,7 +130,7 @@
         <div class="everything">
         <div class="header">
             <img src="https://i.imgur.com/M26SxH2.png" class="logo" style="top:1.5%;left:2.5%">
-            <a href="https://en.wikipedia.org/wiki/Saturn" class="PlanetBefore" style="left:2%; top:14%">Uranus</a>
+            <a href="https://en.wikipedia.org/wiki/Uranus" class="PlanetBefore" style="left:2%; top:14%">Uranus</a>
             <a class="PlanetAfter" style="right:2%; top:14%">Pluto</a>
         </div>
         <div>
